@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: Qlab Scripting
-- 🌱 I’m currently learning: Web Development
+- 🌱 I’m currently learning: Web Development (React)
 - 📫 How to reach me: [Send me an email](mailto:ben@bensmithsound.uk)
 - 😄 Pronouns: He/Him
 
