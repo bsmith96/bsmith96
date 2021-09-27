@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Qlab Scripting
-- 🌱 I’m currently learning: Web Development (React)
+- 🔭 I’m currently working on: A mix of 
+  - Qlab Scripting (_applescript_)
+  - Reaper Scripting (_Lua_) 
+  - Javascript applets
+  - Some web development (_Hugo_)
 - 📫 How to reach me: [Send me an email](mailto:ben@bensmithsound.uk)
 - 😄 Pronouns: He/Him
 
@@ -11,6 +14,7 @@
 Here are some ideas to get you started:
 
 
+- 🌱 I’m currently learning: Web Development (Hugo)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
