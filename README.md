@@ -5,7 +5,7 @@
   - Reaper Scripting (_Lua_) 
   - Javascript applets
   - Some web development (_Hugo_)
-- 📫 How to reach me: [Send me an email](mailto:ben@bensmithsound.uk)
+- 📫 How to reach me: [Send me an email](mailto:hello@bensmithsound.uk)
 - 😄 Pronouns: He/Him
 
 <!--
